@@ -20,9 +20,10 @@ Máximo 3.
 
 Complete la tabla:
 
-| Integrante | github nick |
-|------------|-------------|
-|            |             |
+| Integrante           | github nick |
+|----------------------|-------------|
+| Sergio Andres Cabezas|seacabezasma |
+| Luis Zamora		   |zam403		 |
 
 ## Entrega
 
